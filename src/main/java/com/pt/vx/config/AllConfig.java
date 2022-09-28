@@ -101,7 +101,7 @@ public class AllConfig {
                 "oWPhB515bd7I1dacMoNAhni0H1O4",
                 "大帅比",
                 new BirthDay(1995,11,16,true),  //这个人的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
-                new BirthDay(1999,9,119,true), //这个人对象的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
+                new BirthDay(1999,9,19,true), //这个人对象的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
                 LocalDate.of(2020,7,8),//这个人的纪念日
                 "山西省长治市潞城区",//这个人的详细地址
                 "潞城",//这个人在的城市
