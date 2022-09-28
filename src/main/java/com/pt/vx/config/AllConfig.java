@@ -90,9 +90,9 @@ public class AllConfig {
         userList.add(getUser(
                 "oWPhB515bd7I1dacMoNAhni0H1O4",//扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "大帅哥",//咋称呼这个人
-                new BirthDay(1999,8,11,false),  //这个人的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
-                new BirthDay(1999,2,15,true), //这个人对象的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
-                LocalDate.of(2020,7,8),//这个人的纪念日起点，比如说在一起的那一天
+                new BirthDay(1995,9,16,true),  //这个人的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
+                new BirthDay(1999,9,19,true), //这个人对象的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
+                LocalDate.of(2022,9,14),//这个人的纪念日起点，比如说在一起的那一天
                 "山西省长治市潞城区",//这个人的详细地址
                 "潞城",//这个人在的城市
                 "lIdxX1KEx_MY81dTddINd7stFHmz46o1MDJ3WK_dzgE"));//要给这个人发送的模板ID
