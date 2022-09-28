@@ -51,9 +51,9 @@ import java.util.List;
  * story 小说
  */
 public class AllConfig {
-    public static final String VxAppId = "微信的APPID";
-    public static final String VxAppSecret = "微信的密钥";
-    public static final String WeatherKey = "高德地图key";
+    public static final String VxAppId = "wx69ce54b875717ca9";
+    public static final String VxAppSecret = "d5de6ab086f14ad8f0fdcc0a051c37ab";
+    public static final String WeatherKey = "b30964fa12ec69ef0968b47b524aacb3";
 
     //基本类型消息
     public static final boolean open_info = true; //是否开启个人情况 true 为开启， false 为不开启
@@ -95,7 +95,7 @@ public class AllConfig {
                 LocalDate.of(2020,7,8),//这个人的纪念日起点，比如说在一起的那一天
                 "江苏省南京市玄武区",//这个人的详细地址
                 "南京",//这个人在的城市
-                "微信消息模板ID"));//要给这个人发送的模板ID
+                "OmI3-40NKncp1L7jxXQWqx12GQmQnY4M0w9pEou1k0Y"));//要给这个人发送的模板ID
 
         userList.add(getUser(
                 "这个人扫码后的微信号",
