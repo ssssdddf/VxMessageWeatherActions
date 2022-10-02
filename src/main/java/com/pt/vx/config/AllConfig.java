@@ -51,9 +51,7 @@ import java.util.List;
  * story 小说
  */
 public class AllConfig {
-    public static final String VxAppId = "wx69ce54b875717ca9";
-    public static final String VxAppSecret = "455b2aaf733d1c822af896b8d335c7dd";
-    public static final String WeatherKey = "5ff81e566102820c76a6fc35041f68ff";
+    public static final String VxAppId = "
 
     //基本类型消息
     public static final boolean open_info = true; //是否开启个人情况 true 为开启， false 为不开启
